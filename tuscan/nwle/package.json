@@ -1,10 +1,21 @@
 {
-    "name": "nwle",
+    "name": "tuscan",
     "displayName": "tuscan",
     "description": "A light theme for Visual Studio Code",
+    "publisher": "nwle",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "icon": "https://i.ibb.co/4p9ppcy/Untitled-design.png",
+    "author": {
+        "name": "Leonie",
+        "email": "le.nw@outlook.com",
+        "url": "https://www.linkedin.com/in/leonie-nur-wahyuni-768580146/"
+    },
+    "repository": {
+        "url": "https://github.com/nwle/tuscan.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
