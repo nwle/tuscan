@@ -1,0 +1,21 @@
+{
+    "name": "nwle",
+    "displayName": "tuscan",
+    "description": "A light theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tuscan (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/Tuscan (Light)-color-theme.json"
+            }
+        ]
+    }
+}
